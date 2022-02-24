@@ -13,9 +13,9 @@ dependencies:
     sdk: flutter
 
 
-  shuftipro_flutter_sdk: ^1.0.2
+  shuftipro_sdk: ^1.0.4
   cupertino_icons: ^1.0.2
-
+  flutter_screenutil: ^5.3.1
 dev_dependencies:
   flutter_test:
     sdk: flutter
